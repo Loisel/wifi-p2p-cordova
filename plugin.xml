@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="code.fury.wifip2p"
+    id="cordova-plugin-wifip2p"
     version="0.0.1">
 
-    <name>Wifi p2p</name>
+    <name>Wifi P2P</name>
     <description>A port for wifi p2p android </description>
     <author>code-fury</author>
     <keywords>cordova, wifi, p2p, android</keywords>

@@ -1,0 +1,11 @@
+{
+  "name": "cordova-plugin-wifip2p",
+  "version": "0.0.1",
+  "cordova": {
+    "id": "cordova-plugin-wifip2p",
+    "platforms": [
+      "android"
+    ]
+  },
+  "description": "A plugin for Wifi P2P connections on Android."
+}
